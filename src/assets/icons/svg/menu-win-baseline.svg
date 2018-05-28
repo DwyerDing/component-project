@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Win/icons/合规基线</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Win/icons/合规基线" fill="#FFFFFF">
+            <g id="ic_合规基线-win">
+                <text id="Win-Copy-3" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9" font-weight="bold" letter-spacing="0.0749999881">
+                    <tspan x="14" y="22">Win</tspan>
+                </text>
+                <path d="M21,13 L14,13 C12.8954305,13 12,13.8954305 12,15 L12,16 L13.1111111,21 L5,21 C3.8954305,21 3,20.1045695 3,19 L3,5 C3,3.8954305 3.8954305,3 5,3 L19,3 C20.1045695,3 21,3.8954305 21,5 L21,13 Z M6.62697057,8.22227184 L5.2146212,9.6346212 L8,12.42 L13.7351263,6.68487373 L12.3201263,5.26987373 L8,9.59 L6.62697057,8.22227184 Z M8,19 C9.1045695,19 10,18.1045695 10,17 C10,15.8954305 9.1045695,15 8,15 C6.8954305,15 6,15.8954305 6,17 C6,18.1045695 6.8954305,19 8,19 Z M14,11 L19,11 L19,9 L14,9 L14,11 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

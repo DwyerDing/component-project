@@ -1,0 +1,97 @@
+@import "./utility/variable.scss";
+
+.text-muted {
+  color: $placeholder-color;
+}
+
+.text-primary {
+  color: $primary;
+}
+
+.text-success {
+  color: $success;
+}
+
+.text-info {
+  color: $info;
+}
+
+.text-warning {
+  color: $warning;
+}
+
+.text-danger {
+  color: $danger;
+}
+
+.bg-muted {
+  background-color: $placeholder-color;
+}
+
+.bg-primary {
+  background-color: $primary;
+}
+
+.bg-success {
+  background-color: $success;
+}
+
+.bg-info {
+  background-color: $info;
+}
+
+.bg-warning {
+  background-color: $warning;
+}
+
+.bg-danger {
+  background-color: $danger;
+}
+
+.m-r {
+  margin-left: $space;
+}
+
+.m-l {
+  margin-left: $space;
+}
+
+.m-t {
+  margin-top: $space;
+}
+
+.m-b {
+  margin-bottom: $space;
+}
+
+.p-r {
+  padding-right: $space;
+}
+
+.p-l {
+  padding-left: $space;
+}
+
+.p-t {
+  padding-top: $space;
+}
+
+.p-b {
+  padding-bottom: $space;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clearfix {
+  &::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+}

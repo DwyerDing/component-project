@@ -1,0 +1,16 @@
+.icon-logo-big-blue-247x58:after {
+  width: 262px;
+  height: 48px;
+  background: url("../logo/logo.png");
+}
+
+.login-banner {
+  width: 262px;
+  height: 48px;
+  margin: 25px auto;
+}
+
+.side-menu.expand img {
+  width: 156px;
+  margin-top: 15px;
+}

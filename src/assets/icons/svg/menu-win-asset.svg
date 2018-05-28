@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Win/icons/资产清点</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Win/icons/资产清点" fill="#FFFFFF">
+            <g id="ic_资产清点-win">
+                <g id="Rectangle-15-Copy-3-+-Combined-Shape-+-Combined-Shape-Mask" transform="translate(1.000000, 1.000000)">
+                    <path d="M18.2739702,12 L14.6369851,12 L19.1832164,9.5 L21.001709,10.5 L18.2739702,12 Z M11.3603665,15.8018323 L11,16 L0.998291016,10.5 L2.81678356,9.5 L11,14 L11.3603665,15.8018323 Z M12.2612826,20.3064131 L11,21 L0.998291016,15.5 L2.81678356,14.5 L11,19 L11.9009162,18.5045808 L12.2612826,20.3064131 Z M11,0 L21.001709,5.5 L11,11 L0.998291016,5.5 L11,0 Z" id="Combined-Shape"></path>
+                </g>
+                <text id="Win-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9" font-weight="bold" letter-spacing="0.0749999881">
+                    <tspan x="14" y="22">Win</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

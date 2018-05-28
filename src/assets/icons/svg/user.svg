@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Linux/icons/顶部栏-用户</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Linux/icons/顶部栏-用户" fill="#FFFFFF">
+            <g id="User">
+                <path d="M20.6566833,19 L20.7478261,19 L20.7478261,21 L2.74782609,21 L2.74782609,19 L2.83896891,19 C2.77890432,18.8366985 2.74782609,18.6697607 2.74782609,18.5 C2.74782609,16.5670034 6.77726334,15 11.7478261,15 C16.7183888,15 20.7478261,16.5670034 20.7478261,18.5 C20.7478261,18.6697607 20.7167479,18.8366985 20.6566833,19 Z M11.7478261,13 C8.98640234,13 6.74782609,10.7614237 6.74782609,8 C6.74782609,5.23857625 8.98640234,3 11.7478261,3 C14.5092498,3 16.7478261,5.23857625 16.7478261,8 C16.7478261,10.7614237 14.5092498,13 11.7478261,13 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

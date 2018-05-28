@@ -1,0 +1,14 @@
+.side-menu.expand .side-logo img {
+  margin: 6px auto 6px 16px;
+}
+.login-banner {
+  width: 247px;
+  height: 82px;
+  margin: 8px auto;
+}
+
+.icon-logo-big-blue-247x58:after {
+  width: 246px;
+  height: 82px;
+  background: url("../logo/logo.png");
+}

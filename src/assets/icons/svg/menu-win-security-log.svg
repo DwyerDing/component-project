@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Win/icons/安全日志</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Win/icons/安全日志" fill="#FFFFFF">
+            <g id="安全日志-copy-2">
+                <g id="Combined-Shape-+-Combined-Shape-Mask" transform="translate(3.000000, 2.000000)">
+                    <path d="M18,11 L9,11 L6,11 L6,13 L9,13 L9,14 L9.22222222,15 L6,15 L6,17 L9.66666667,17 L10.3333333,20 L5,20 C4.44771525,20 4,19.5522847 4,19 L4,5 C4,4.44771525 4.44771525,4 5,4 L17,4 C17.5522847,4 18,4.44771525 18,5 L18,11 Z M6,7 L6,9 L12,9 L12,7 L6,7 Z" id="Combined-Shape"></path>
+                    <path d="M14,2 L3,2 C2.44771525,2 2,2.44771525 2,3 L2,17 L1,17 C0.44771525,17 6.76353751e-17,16.5522847 0,16 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L13,0 C13.5522847,-1.01453063e-16 14,0.44771525 14,1 L14,2 Z" id="Combined-Shape"></path>
+                </g>
+                <text id="Win-Copy-4" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9" font-weight="bold" letter-spacing="0.0749999881">
+                    <tspan x="14" y="22">Win</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

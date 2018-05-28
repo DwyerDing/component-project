@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Linux/icons/安全日志</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Linux/icons/安全日志" fill="#FFFFFF">
+            <g id="安全日志" transform="translate(3.000000, 2.000000)">
+                <path d="M5,4 L17,4 C17.5522847,4 18,4.44771525 18,5 L18,19 C18,19.5522847 17.5522847,20 17,20 L5,20 C4.44771525,20 4,19.5522847 4,19 L4,5 C4,4.44771525 4.44771525,4 5,4 Z M6,7 L6,9 L12,9 L12,7 L6,7 Z M6,11 L6,13 L16,13 L16,11 L6,11 Z M6,15 L6,17 L16,17 L16,15 L6,15 Z" id="Combined-Shape"></path>
+                <path d="M14,2 L3,2 C2.44771525,2 2,2.44771525 2,3 L2,17 L1,17 C0.44771525,17 6.76353751e-17,16.5522847 0,16 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L13,0 C13.5522847,-1.01453063e-16 14,0.44771525 14,1 L14,2 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

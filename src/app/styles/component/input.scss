@@ -1,0 +1,10 @@
+input {
+  display: block;
+  width: 100%;
+  line-height: 26px;
+  border: none;
+  background-image: linear-gradient($linkColor, $linkColor), linear-gradient($placeholderColor, $placeholderColor);
+  background-size: 0 2px, 100% 1px;
+  background-repeat: no-repeat;
+  background-position: center bottom, center calc(100% - 1px);
+}

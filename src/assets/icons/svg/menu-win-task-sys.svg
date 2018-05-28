@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav/Win/icons/任务系统</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav/Win/icons/任务系统" fill="#FFFFFF">
+            <g id="ic_任务系统-copy">
+                <g id="Group-2" transform="translate(2.000000, 2.000000)">
+                    <polygon id="Shape" fill-rule="nonzero" points="13.5 7.5 15 9 8.01 16 3.5 11.5 5 10 8.01 13"></polygon>
+                    <path d="M18,10 L16,10 L16,7 L2,7 L2,18 L10.3333333,18 L10.6666667,20 L2,20 C0.89,20 0,19.1 0,18 L0.01,4 C0.01,2.9 0.89,2 2,2 L3,2 L3,0 L5,0 L5,2 L13,2 L13,0 L15,0 L15,2 L16,2 C17.1,2 18,2.9 18,4 L18,10 Z" id="Combined-Shape"></path>
+                </g>
+                <text id="Win-Copy-4" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9" font-weight="bold" letter-spacing="0.0749999881">
+                    <tspan x="14" y="22">Win</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
